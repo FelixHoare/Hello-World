@@ -1,2 +1,2 @@
 Hello World! My name is Felix Hoare.
-I study Computer Science BSc.
+I study BSc Computer Science.
